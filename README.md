@@ -1,4 +1,20 @@
-# 🗃 Hello World Part 4 Tutorial Starter Files
+# Hello Web3
+My journey learning smart contract and Web3 development
 
-This project contains the starter files for [Hello World Part 4 tutorial](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract/creating-a-full-stack-dapp), in which we teach you how to create a full stack dApp by connecting your Hello World smart contract to a React frontend using Metamask and Web3 tools.
+#Objectives
 
+Create smart contract
+Verify Smart contract on Etherscan
+Build UI 
+Connect to Metamask wallet
+Connect UI to smart contract
+
+#Libraries
+
+React.js(UI)
+alchemy-web3(wrapped Web.js)
+
+#Programming languages
+
+Solidity
+Javascript
