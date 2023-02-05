@@ -18,3 +18,7 @@ alchemy-web3(wrapped Web.js)
 
 Solidity
 Javascript
+
+#Run scripts
+
+npm start
